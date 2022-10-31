@@ -515,6 +515,26 @@ export const data: Array<Demo> = [
       apiDocURL: '',
       canIUseURL: 'https://caniuse.com/indexeddb',
     },
+  },
+  {
+    id: 'console-api-i',
+    emoji: '🖨️',
+    title: 'Console API',
+    description:
+      'The Console API provides functionality to allow developers to perform debugging tasks, such as logging messages or the values of variables at set points in your code, or timing how long an operation takes to complete.',
+    meta: {
+      author: {
+        name: 'Ayush Raj',
+        social: {
+          email: 'meayushraj17@gmail.com',
+          github: 'ayushraj17',
+          twitter: 'me_ayushraj',
+        },
+      },
+      apiDocURL: '',
+      canIUseURL:
+        'https://developer.mozilla.org/en-US/docs/Web/API/Console_API',
+    },
   }, //replace item here
   {
     id: 'channel-messaging-api',
@@ -593,6 +613,26 @@ export const data: Array<Demo> = [
       apiDocURL:
         'https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API',
       canIUseURL: 'https://caniuse.com/barcode-detection',
+    },
+  },
+  {
+    id: 'console-api-i',
+    emoji: '🖨️',
+    title: 'Console API',
+    description:
+      'The Console API provides functionality to allow developers to perform debugging tasks, such as logging messages or the values of variables at set points in your code, or timing how long an operation takes to complete.',
+    meta: {
+      author: {
+        name: 'Ayush Raj',
+        social: {
+          email: 'meayushraj17@gmail.com',
+          github: 'ayushraj17',
+          twitter: 'me_ayushraj',
+        },
+      },
+      apiDocURL: '',
+      canIUseURL:
+        'https://developer.mozilla.org/en-US/docs/Web/API/Console_API',
     },
   }, //replace item here
 ];
