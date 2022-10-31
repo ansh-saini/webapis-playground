@@ -515,6 +515,25 @@ export const data: Array<Demo> = [
       apiDocURL: '',
       canIUseURL: 'https://caniuse.com/indexeddb',
     },
+  },
+  {
+    id: 'beacon-api',
+    emoji: '',
+    title: 'Beacon API',
+    description:
+      'The Beacon API is used to send an asynchronous and non-blocking request to a web server. The request does not expect a response. Unlike requests made using XMLHttpRequest or the Fetch API, the browser guarantees to initiate beacon requests before the page is unloaded and to run them to completion.',
+    meta: {
+      author: {
+        name: 'Ayush Raj',
+        social: {
+          email: 'meayushraj17@gmail.com',
+          github: 'ayushraj17',
+          twitter: 'me_ayushraj',
+        },
+      },
+      apiDocURL: '',
+      canIUseURL: 'https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API',
+    },
   }, //replace item here
   {
     id: 'channel-messaging-api',
@@ -593,6 +612,25 @@ export const data: Array<Demo> = [
       apiDocURL:
         'https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API',
       canIUseURL: 'https://caniuse.com/barcode-detection',
+    },
+  },
+  {
+    id: 'beacon-api-i',
+    emoji: '',
+    title: 'Beacon API',
+    description:
+      'The Beacon API is used to send an asynchronous and non-blocking request to a web server. The request does not expect a response. Unlike requests made using XMLHttpRequest or the Fetch API, the browser guarantees to initiate beacon requests before the page is unloaded and to run them to completion.',
+    meta: {
+      author: {
+        name: 'Ayush Raj',
+        social: {
+          email: 'meayushraj17@gmail.com',
+          github: 'ayushraj17',
+          twitter: 'me_ayushraj',
+        },
+      },
+      apiDocURL: '',
+      canIUseURL: 'https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API',
     },
   }, //replace item here
 ];
