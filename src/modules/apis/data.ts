@@ -515,6 +515,26 @@ export const data: Array<Demo> = [
       apiDocURL: '',
       canIUseURL: 'https://caniuse.com/indexeddb',
     },
+  },
+  {
+    id: 'background-fetch-api',
+    emoji: '📶',
+    title: 'Background Fetch API',
+    description:
+      'The Background Fetch API provides a method for managing downloads that may take a significant amount of time such as movies, audio files, and software.',
+    meta: {
+      author: {
+        name: 'Ayush Raj',
+        social: {
+          email: 'meayushraj17@gmail.com',
+          github: 'ayushraj17',
+          twitter: 'me_ayushraj',
+        },
+      },
+      apiDocURL: '',
+      canIUseURL:
+        'https://developer.mozilla.org/en-US/docs/Web/API/Background_Fetch_API',
+    },
   }, //replace item here
   {
     id: 'channel-messaging-api',
@@ -593,6 +613,26 @@ export const data: Array<Demo> = [
       apiDocURL:
         'https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API',
       canIUseURL: 'https://caniuse.com/barcode-detection',
+    },
+  },
+  {
+    id: 'background-fetch-api',
+    emoji: '📶',
+    title: 'Background Fetch API',
+    description:
+      'The Background Fetch API provides a method for managing downloads that may take a significant amount of time such as movies, audio files, and software.',
+    meta: {
+      author: {
+        name: 'Ayush Raj',
+        social: {
+          email: 'meayushraj17@gmail.com',
+          github: 'ayushraj17',
+          twitter: 'me_ayushraj',
+        },
+      },
+      apiDocURL: '',
+      canIUseURL:
+        'https://developer.mozilla.org/en-US/docs/Web/API/Background_Fetch_API',
     },
   }, //replace item here
 ];
