@@ -515,6 +515,25 @@ export const data: Array<Demo> = [
       apiDocURL: '',
       canIUseURL: 'https://caniuse.com/indexeddb',
     },
+  },
+  {
+    id: 'intersection-observer-api',
+    emoji: '🔭',
+    title: 'Intersection Observer API',
+    description:
+      'API that can be used to understand the visibility and position of DOM elements relative to a containing element or to the top-level viewport. The position is delivered asynchronously and is useful for understanding the visibility of elements and implementing pre-loading and deferred loading of DOM content.',
+    meta: {
+      author: {
+        name: 'Ayush Raj',
+        social: {
+          email: 'meayushraj17@gmail.com',
+          github: 'ayushraj17',
+          twitter: 'me_ayushraj',
+        },
+      },
+      apiDocURL: '',
+      canIUseURL: '',
+    },
   }, //replace item here
   {
     id: 'channel-messaging-api',
@@ -593,6 +612,25 @@ export const data: Array<Demo> = [
       apiDocURL:
         'https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API',
       canIUseURL: 'https://caniuse.com/barcode-detection',
+    },
+  },
+  {
+    id: 'intersection-observer-api',
+    emoji: '🔭',
+    title: 'Intersection Observer API',
+    description:
+      'API that can be used to understand the visibility and position of DOM elements relative to a containing element or to the top-level viewport. The position is delivered asynchronously and is useful for understanding the visibility of elements and implementing pre-loading and deferred loading of DOM content.',
+    meta: {
+      author: {
+        name: 'Ayush Raj',
+        social: {
+          email: 'meayushraj17@gmail.com',
+          github: 'ayushraj17',
+          twitter: 'me_ayushraj',
+        },
+      },
+      apiDocURL: '',
+      canIUseURL: '',
     },
   }, //replace item here
 ];
